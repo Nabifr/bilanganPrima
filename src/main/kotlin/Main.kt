@@ -21,6 +21,6 @@ fun isPrima(number: Int): Boolean {
             return false
         }
     }
-
+//cek
     return true
 }
